@@ -35,7 +35,7 @@
 lib/generated_plugin_registrant.dart
 
 #api keys
-/lib/services/keys.dart
+/lib/servicies/keys.dart
 
 # Symbolication related
 app.*.symbols
